@@ -1,0 +1,25 @@
+<?xml-model href="exo_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<element name="bibliotheque" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+	<oneOrMore>
+	<element name="etagere">
+		<attribute name="type"/>
+		<optional><attribute name="poussiere"/></optional>
+			<zeroOrMore>
+			<element name="livre">
+				<attribute name="isbn"/>
+				<attribute name="prix"/>
+				<element name="titre"><text/></element>
+				<zeroOrMore>
+				<element name="auteur">
+					<optional><attribute name="nom"/></optional>
+					<optional><attribute name="prenom"/></optional>
+					<zeroOrMore><element name="nom"><text/></element></zeroOrMore>
+					<zeroOrMore><element name="prenom"><text/></element></zeroOrMore>
+				</element>
+				</zeroOrMore>
+			</element>
+			</zeroOrMore>
+	</element>
+	</oneOrMore>
+</element>
