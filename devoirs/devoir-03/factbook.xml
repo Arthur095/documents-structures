@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="factbook-minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<mondial>
+	<continent id="C01" name="Europe"/>
+	<country id="E01" name ="Allemagne" gdp_total="999999" gdp_agri="9999">
+		<name>
+			Allemagne
+		</name>
+		<city longitude="-478.578.547" latitude="145.587.699">
+			<name>
+				Berlin
+			</name>
+			<population xmlns="inalco:documents-structures:ns">
+				19000000
+			</population>
+			<located_at>
+			</located_at>
+		</city>
+	</country>
+</mondial>
