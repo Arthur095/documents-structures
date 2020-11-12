@@ -1,0 +1,40 @@
+Exercices Xpath :
+
+Partie 2 :
+
+Depuis la racine :
+
+1 - ancestor-or-self::*[position() = last()]/name()
+2 - ./pdv//*
+3 - .//ville/text()
+4 - ./pdv[46]
+5 - ./*/prix[last()]
+6 - ./pdv[@id='3150005']
+7 - ./pdv[.//service/text() != 'GPL']
+8 - ./*/following-sibling::*
+9 - ./pdv[@cp ='16170']
+10 - ./pdv[contains(.//ouverture/@saufjour, "Lundi")]
+11 - ./pdv[.//service[text()="Relais colis"]]
+12 - .//service[./following-sibling::*[10][text() = 'Piste poids lourds']]
+13 - ../rupture[contains(@début, "2013-02-04")]/@nom="SP95"]
+14 - .//fermeture[not(boolean(@début))]
+15 - boolean(.//ville/text()="La Mure" and .//prix/@nom = "E10")
+16 - count(./pdv)
+17 - ./pdv/adresse/string-length()
+18 - max(.//adresse/string-length())
+19 - ./pdv[./ouverture/@fin != "20:00"]
+20 - .//prix/@nom/lower-case(.)
+21 - ./pdv/@latitude/translate(., ".", "--")
+22 - concat(substring(./pdv/prix/@maj, 13, 20), "  T  ", substring(./pdv/prix/@maj, 0, 12))
+
+Partie 3 :
+
+1 - ./juicer[@type="centrifugal"]/string()
+2 - (./juicer[@type="centrifugal"]/string())[last()]
+3 - (./juicer[@type="centrifugal"]/string())[position() != 2]
+4 - .//name/string()
+5 - .//name[text() = "Juicerman Jr."]/position()
+6 - (.//name)
+7 - 
+8 - (5 to 25)
+9 - 
