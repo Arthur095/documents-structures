@@ -1,0 +1,1988 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-model href="pdv.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<pdv_liste>
+  <pdv id="1000001" latitude="4620114" longitude="519791" cp="01000" pop="R">
+    <adresse>ROUTE NATIONALE</adresse>
+    <ville>SAINT-DENIS-LèS-BOURG</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+      <service>Station de gonflage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-27 10:01:27" valeur="1255"/>
+    <prix nom="SP95" id="2" maj="2014-09-27 10:01:28" valeur="1455"/>
+    <prix nom="SP98" id="6" maj="2014-09-27 10:01:28" valeur="1515"/>
+    <fermeture></fermeture>
+    <rupture/>
+  </pdv>
+  <pdv id="1000002" latitude="4621842" longitude="522767" cp="01000" pop="R">
+    <adresse>16 Avenue de Marboz </adresse>
+    <ville>BOURG-EN-BRESSE</ville>
+    <ouverture debut="08:45"  fin="19:30" saufjour="Dimanche"/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+      <service>Station de gonflage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-29 12:27:33" valeur="1255"/>
+    <prix nom="SP95" id="2" maj="2014-09-29 12:27:33" valeur="1455"/>
+    <prix nom="SP98" id="6" maj="2014-09-29 12:27:33" valeur="1505"/>
+    <rupture id="3" nom="E85" début="2009-11-03 12:19:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1000004" latitude="4618836" longitude="524447" cp="01000" pop="R">
+    <adresse>20 Avenue du Maréchal Juin</adresse>
+    <ville>Bourg-en-Bresse</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Vente de fioul domestique</service>
+      <service>GPL</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Station de gonflage</service>
+      <service>Piste poids lourds</service>
+      <service>Toilettes publiques</service>
+      <service>Relais colis</service>
+      <service>Vente de gaz domestique</service>
+      <service>Location de véhicule</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-27 20:00:00" valeur="1400"/>
+    <prix nom="SP95" id="2" maj="2014-09-27 20:00:00" valeur="1600"/>
+    <prix nom="GPLc" id="4" maj="2014-06-20 20:02:00" valeur="910"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1000005" latitude="4620093.59235" longitude="519942.024022" cp="01000" pop="R">
+    <adresse>642 Avenue de Trévoux</adresse>
+    <ville>SAINT-DENIS-LèS-BOURG</ville>
+    <ouverture debut="06:00" fin="22:00" saufjour=""/>
+    <services>
+      <service>Vente de gaz domestique</service>
+      <service>Automate CB</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Lavage multi-programmes</service>
+      <service>Station de gonflage</service>
+      <service>Piste poids lourds</service>
+      <service>Station de lavage</service>
+    </services>
+    <rupture id="2" nom="SP95" début="2011-06-01 00:00:00" fin=""/>
+    <prix/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1000006" latitude="4620754" longitude="523758" cp="01000" pop="R">
+    <adresse>1 Boulevard John Kennedy</adresse>
+    <ville>BOURG-EN-BRESSE</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour="Dimanche"/>
+    <services>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-06-13 09:14:25" valeur="1289"/>
+    <prix nom="SP95" id="2" maj="2014-06-13 09:14:25" valeur="1529"/>
+    <prix nom="SP98" id="6" maj="2014-06-13 09:14:25" valeur="1569"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1000007" latitude="4620105" longitude="524891" cp="01000" pop="R">
+    <adresse>Avenue Amédée Mercier</adresse>
+    <ville>Bourg-en-Bresse</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour="Dimanche"/>
+    <services>
+      <service>Vente de gaz domestique</service>
+      <service>Automate CB</service>
+      <service>Vente de fioul domestique</service>
+      <service>Station de lavage</service>
+      <service>Lavage multi-programmes</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-26 08:49:07" valeur="1255"/>
+    <prix nom="SP95" id="2" maj="2014-09-26 08:49:08" valeur="1455"/>
+    <prix nom="E10" id="5" maj="2014-09-26 08:49:08" valeur="1435"/>
+    <prix nom="SP98" id="6" maj="2014-09-26 08:49:08" valeur="1505"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1000008" latitude="4619941.65092" longitude="524070.35676" cp="01000" pop="R">
+    <adresse>Bd Charles de Gaulle</adresse>
+    <ville>BOURG-EN-BRESSE</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Piste poids lourds</service>
+      <service>Toilettes publiques</service>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-29 05:09:49" valeur="1255"/>
+    <prix nom="SP95" id="2" maj="2014-09-29 05:09:49" valeur="1455"/>
+    <prix nom="E10" id="5" maj="2014-09-29 05:09:49" valeur="1435"/>
+    <prix nom="SP98" id="6" maj="2014-09-29 05:09:50" valeur="1505"/>
+    <rupture id="3" nom="E85" début="2009-11-03 15:21:00" fin=""/>
+    <rupture id="3" nom="E85" début="2009-11-03 15:23:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1000009" latitude="4619566" longitude="522935" cp="01000" pop="R">
+    <adresse>56 Rue du Stand</adresse>
+    <ville>Bourg-en-Bresse</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+      <service>Vente de fioul domestique</service>
+      <service>Station de lavage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-26 11:16:25" valeur="1255"/>
+    <prix nom="SP95" id="2" maj="2014-09-26 11:16:44" valeur="1455"/>
+    <prix nom="E10" id="5" maj="2014-09-26 11:21:37" valeur="1435"/>
+    <prix nom="SP98" id="6" maj="2014-09-26 11:21:18" valeur="1505"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1000010" latitude="4619851.83794" longitude="524350.637881" cp="01000" pop="R">
+    <adresse>Boulevard Charles de Gaulle</adresse>
+    <ville>BOURG-EN-BRESSE</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-08-29 08:23:07" valeur="1294"/>
+    <prix nom="E10" id="5" maj="2014-08-29 08:23:07" valeur="1485"/>
+    <prix nom="SP98" id="6" maj="2014-08-29 08:23:07" valeur="1544"/>
+    <rupture id="4" nom="GPLc" début="2013-08-21 06:15:00" fin=""/>
+    <rupture id="3" nom="E85" début="2013-08-21 06:15:00" fin=""/>
+    <rupture id="2" nom="SP95" début="2011-06-09 06:45:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1000011" latitude="4620090" longitude="519963" cp="01000" pop="R">
+    <adresse>642 Avenue de Trévoux</adresse>
+    <ville>Saint-Denis-lès-Bourg</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour="Lundi;Mardi;Mercredi;Jeudi;Vendredi;Samedi;Dimanche"/>
+    <services>
+      <service>Station de lavage</service>
+      <service>Automate CB</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Lavage multi-programmes</service>
+      <service>Piste poids lourds</service>
+      <service>Relais colis</service>
+      <service>Station de gonflage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-12 08:54:00" valeur="1380"/>
+    <prix nom="E10" id="5" maj="2014-08-28 07:20:22" valeur="1500"/>
+    <prix nom="SP98" id="6" maj="2014-08-28 07:20:22" valeur="1580"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1090001" latitude="4609636" longitude="477455" cp="01090" pop="R">
+    <adresse>LE GRAND RIVOLET</adresse>
+    <ville>MONTCEAUX</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-29 06:44:00" valeur="1274"/>
+    <prix nom="SP95" id="2" maj="2014-09-29 06:44:00" valeur="1481"/>
+    <prix nom="SP98" id="6" maj="2014-09-29 06:44:00" valeur="1518"/>
+    <rupture id="5" nom="E10" début="2014-06-30 11:36:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1100001" latitude="4628404" longitude="566282" cp="01100" pop="R">
+    <adresse>ROUTE DE DORTAN</adresse>
+    <ville>Arbent</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+      <service>Carburant qualité supérieure</service>
+      <service>GPL</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-26 08:31:04" valeur="1255"/>
+    <prix nom="SP95" id="2" maj="2014-09-26 08:31:05" valeur="1475"/>
+    <prix nom="GPLc" id="4" maj="2014-02-20 09:46:20" valeur="840"/>
+    <prix nom="E10" id="5" maj="2014-09-26 08:31:05" valeur="1455"/>
+    <rupture id="3" nom="E85" début="2014-08-27 00:00:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1100002" latitude="4625029.83989" longitude="564440.447223" cp="01100" pop="R">
+    <adresse>Rue Brillat-Savarin</adresse>
+    <ville>OYONNAX</ville>
+    <ouverture debut="08:30" fin="20:00" saufjour="Dimanche"/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-26 16:33:52" valeur="1255"/>
+    <prix nom="SP95" id="2" maj="2014-09-26 08:49:08" valeur="1475"/>
+    <prix nom="SP98" id="6" maj="2014-09-18 09:24:08" valeur="1572"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1100003" latitude="4624966" longitude="564134" cp="01100" pop="R">
+    <adresse>174 Cours de Verdun</adresse>
+    <ville>Oyonnax</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Vente de fioul domestique</service>
+      <service>GPL</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Lavage multi-programmes</service>
+      <service>Lavage haute-pression</service>
+      <service>Station de gonflage</service>
+      <service>Baie de service auto</service>
+      <service>Piste poids lourds</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-20 00:00:00" valeur="1349"/>
+    <prix nom="GPLc" id="4" maj="2014-08-07 00:00:00" valeur="879"/>
+    <prix nom="E10" id="5" maj="2014-09-17 00:00:00" valeur="1497"/>
+    <prix nom="SP98" id="6" maj="2014-09-17 00:00:00" valeur="1577"/>
+    <rupture id="2" nom="SP95" début="2013-03-13 16:21:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1100004" latitude="4627203.6352" longitude="565968.240222" cp="01100" pop="R">
+    <adresse>886 AVENUE JEAN COUTTY</adresse>
+    <ville>ARBENT - OYONNAX</ville>
+    <ouverture debut="06:30" fin="21:00" saufjour=""/>
+    <services>
+      <service>Toilettes publiques</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Restauration à emporter</service>
+      <service>Vente de gaz domestique</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Station de gonflage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-29 16:59:40" valeur="1344"/>
+    <prix nom="SP95" id="2" maj="2014-09-29 16:59:40" valeur="1556"/>
+    <prix nom="SP98" id="6" maj="2014-09-29 16:59:40" valeur="1592"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1100006" latitude="4626209" longitude="564771" cp="01100" pop="R">
+    <adresse>74 Rue Jules Michelet</adresse>
+    <ville>Oyonnax</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-25 09:48:55" valeur="1257"/>
+    <prix nom="SP95" id="2" maj="2014-09-25 09:48:56" valeur="1475"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1110001" latitude="4597823" longitude="559870" cp="01110" pop="R">
+    <adresse>Rue Massonod</adresse>
+    <ville>HAUTEVILLE-LOMPNES</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-27 08:30:16" valeur="1280"/>
+    <prix nom="SP95" id="2" maj="2014-09-27 08:30:16" valeur="1480"/>
+    <prix nom="SP98" id="6" maj="2014-09-27 08:30:16" valeur="1510"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1120002" latitude="4584715.18044" longitude="507404.780227" cp="01120" pop="A">
+    <adresse>AUTOROUTE A 42</adresse>
+    <ville>DAGNEUX</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>GPL</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Station de gonflage</service>
+      <service>Piste poids lourds</service>
+      <service>Toilettes publiques</service>
+      <service>Douches</service>
+      <service>Espace bébé / change</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-25 13:54:32" valeur="1419"/>
+    <prix nom="E10" id="5" maj="2014-09-25 13:54:32" valeur="1599"/>
+    <prix nom="SP98" id="6" maj="2014-09-25 13:54:32" valeur="1679"/>
+    <rupture id="2" nom="SP95" début="2011-06-08 11:00:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1120003" latitude="4585103" longitude="505543" cp="01120" pop="A">
+    <adresse>AUTOROUTE A 42  AIRE DE DAGNEUX</adresse>
+    <ville>Montluel</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Toilettes publiques</service>
+      <service>Douches</service>
+      <service>Espace bébé / change</service>
+      <service>Restauration à emporter</service>
+      <service>Bar</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Station de gonflage</service>
+      <service>Piste poids lourds</service>
+    </services>
+    <rupture id="2" nom="SP95" début="2009-04-24 13:43:00" fin=""/>
+    <prix/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1120004" latitude="4585251" longitude="505872" cp="01120" pop="R">
+    <adresse> Cours de la Portelle</adresse>
+    <ville>MONTLUEL</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Location de véhicule</service>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-25 10:44:15" valeur="1251"/>
+    <prix nom="E10" id="5" maj="2014-09-25 10:44:15" valeur="1424"/>
+    <prix nom="SP98" id="6" maj="2014-09-25 10:44:15" valeur="1533"/>
+    <rupture id="2" nom="SP95" début="2014-05-01 00:00:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1120005" latitude="4584681" longitude="504778" cp="01120" pop="R">
+    <adresse> Route de Thil</adresse>
+    <ville>LA BOISSE</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Vente de gaz domestique</service>
+      <service>Station de lavage</service>
+      <service>Automate CB</service>
+      <service>Station de gonflage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-29 12:13:40" valeur="1259"/>
+    <prix nom="SP95" id="2" maj="2014-09-29 12:14:09" valeur="1472"/>
+    <prix nom="E10" id="5" maj="2014-09-27 11:33:38" valeur="1424"/>
+    <prix nom="SP98" id="6" maj="2014-09-20 10:12:02" valeur="1533"/>
+    <rupture id="4" nom="GPLc" début="2009-11-14 10:01:00" fin=""/>
+    <rupture id="3" nom="E85" début="2010-10-19 14:52:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1120006" latitude="4584641" longitude="504093" cp="01120" pop="R">
+    <adresse>521 ROUTE NATIONALE</adresse>
+    <ville>La Boisse</ville>
+    <ouverture debut="08:30" fin="17:30" saufjour="Samedi;Dimanche"/>
+    <services>
+      <service>Automate CB</service>
+      <service>Lavage haute-pression</service>
+      <service>Location de véhicule</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-29 14:34:13" valeur="1380"/>
+    <prix nom="E10" id="5" maj="2014-09-29 14:34:13" valeur="1550"/>
+    <prix nom="SP98" id="6" maj="2014-09-29 14:34:13" valeur="1630"/>
+    <rupture id="2" nom="SP95" début="2013-06-12 10:39:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1120007" latitude="4584442.26204" longitude="507062.214413" cp="01120" pop="A">
+    <adresse>AUTOROUTE A42, AIRE DE LYON-DAGNEUX</adresse>
+    <ville>DAGNEUX</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Toilettes publiques</service>
+      <service>Espace bébé / change</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Restauration à emporter</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Piste poids lourds</service>
+      <service>Douches</service>
+      <service>Station de gonflage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-16 06:01:00" valeur="1429"/>
+    <prix nom="E10" id="5" maj="2014-09-16 06:01:00" valeur="1599"/>
+    <prix nom="SP98" id="6" maj="2014-09-16 06:01:00" valeur="1679"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1130001" latitude="4615785" longitude="560352" cp="01130" pop="R">
+    <adresse>ROUTE DE LA CLUSE</adresse>
+    <ville>Nantua</ville>
+    <ouverture debut="06:00" fin="21:00" saufjour=""/>
+    <services>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Station de gonflage</service>
+      <service>Baie de service auto</service>
+      <service>Piste poids lourds</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-08-08 18:30:36" valeur="1299"/>
+    <prix nom="E10" id="5" maj="2014-08-08 18:30:36" valeur="1472"/>
+    <prix nom="SP98" id="6" maj="2014-08-08 18:30:36" valeur="1548"/>
+    <rupture id="2" nom="SP95" début="2013-03-12 14:21:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1130002" latitude="4616697.20036" longitude="569149.536622" cp="01130" pop="R">
+    <adresse>Moulin de Charix</adresse>
+    <ville>LALLEYRIAT</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Vente de gaz domestique</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Station de gonflage</service>
+      <service>Toilettes publiques</service>
+      <service>Piste poids lourds</service>
+      <service>Automate CB</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-26 23:57:00" valeur="1337"/>
+    <prix nom="SP95" id="2" maj="2014-09-26 23:57:00" valeur="1562"/>
+    <prix nom="SP98" id="6" maj="2014-09-26 23:57:00" valeur="1599"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1140001" latitude="4617953" longitude="481728" cp="01140" pop="R">
+    <adresse>Chemin des Huguets</adresse>
+    <ville>Saint-Didier-sur-Chalaronne</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-17 14:14:30" valeur="1299"/>
+    <prix nom="SP95" id="2" maj="2014-09-17 14:14:30" valeur="1499"/>
+    <prix nom="SP98" id="6" maj="2014-09-24 06:36:41" valeur="1539"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1150001" latitude="4590180" longitude="534553" cp="01150" pop="R">
+    <adresse>8 RUE DE L'INDUSTRIE</adresse>
+    <ville>LAGNIEU</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Vente de gaz domestique</service>
+      <service>Station de gonflage</service>
+      <service>Automate CB</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-29 09:08:04" valeur="1269"/>
+    <prix nom="SP95" id="2" maj="2014-09-29 09:08:04" valeur="1499"/>
+    <prix nom="SP98" id="6" maj="2014-09-29 09:08:04" valeur="1509"/>
+    <rupture id="5" nom="E10" début="2013-11-29 15:00:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1150002" latitude="4583883" longitude="527780" cp="01150" pop="R">
+    <adresse> Avenue Charles de Gaulle</adresse>
+    <ville>SAINT-VULBAS</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour="Samedi;Dimanche"/>
+    <services>
+      <service>Automate CB</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Vente de fioul domestique</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Lavage multi-programmes</service>
+      <service>Station de gonflage</service>
+      <service>Piste poids lourds</service>
+      <service>Douches</service>
+      <service>Restauration à emporter</service>
+      <service>Vente de gaz domestique</service>
+      <service>Station de lavage</service>
+      <service>Aire de camping-cars</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-22 07:50:38" valeur="1340"/>
+    <prix nom="E10" id="5" maj="2014-09-22 07:50:38" valeur="1519"/>
+    <prix nom="SP98" id="6" maj="2014-09-22 07:50:38" valeur="1599"/>
+    <rupture id="2" nom="SP95" début="2011-06-03 08:01:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1160001" latitude="4605335.06156" longitude="533741.036717" cp="01160" pop="R">
+    <adresse>Route de bourg</adresse>
+    <ville>PONT-D'AIN</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>GPL</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Lavage haute-pression</service>
+      <service>Station de gonflage</service>
+      <service>Piste poids lourds</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-27 00:10:00" valeur="1262"/>
+    <prix nom="E10" id="5" maj="2014-09-27 00:10:00" valeur="1435"/>
+    <rupture id="2" nom="SP95" début="2013-06-12 22:37:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1160002" latitude="4605170.92878" longitude="533286.633509" cp="01160" pop="R">
+    <adresse>Le Pont Rompu - RD 1084</adresse>
+    <ville>PONT-D'AIN</ville>
+    <ouverture debut="09:00" fin="19:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Toilettes publiques</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-27 08:00:00" valeur="1270"/>
+    <prix nom="SP95" id="2" maj="2014-09-27 08:00:00" valeur="1480"/>
+    <prix nom="E10" id="5" maj="2014-09-27 08:00:00" valeur="1430"/>
+    <prix nom="SP98" id="6" maj="2014-09-27 08:00:00" valeur="1510"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1160003" latitude="4607209" longitude="537534" cp="01160" pop="R">
+    <adresse>Rue du Docteur Hubert</adresse>
+    <ville>NEUVILLE-SUR-AIN</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Lavage multi-programmes</service>
+      <service>Location de véhicule</service>
+      <service>Station de gonflage</service>
+      <service>Station de lavage</service>
+      <service>Toilettes publiques</service>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-27 19:26:28" valeur="1265"/>
+    <prix nom="SP95" id="2" maj="2014-09-27 19:26:28" valeur="1475"/>
+    <prix nom="E10" id="5" maj="2014-09-27 19:26:28" valeur="1429"/>
+    <rupture id="6" nom="SP98" début="2014-03-31 00:00:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1170001" latitude="4629300.72876" longitude="608149.556882" cp="01170" pop="R">
+    <adresse>RN5</adresse>
+    <ville>SéGNY</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de pétrole lampant</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-29 10:06:58" valeur="1256"/>
+    <prix nom="SP95" id="2" maj="2014-09-29 10:06:59" valeur="1457"/>
+    <prix nom="SP98" id="6" maj="2014-09-29 10:06:59" valeur="1492"/>
+    <rupture id="4" nom="GPLc" début="2013-11-28 00:00:00" fin=""/>
+    <rupture id="5" nom="E10" début="2013-11-28 00:00:00" fin=""/>
+    <rupture id="3" nom="E85" début="2013-02-09 10:14:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1170002" latitude="4632242.54852" longitude="605319.031966" cp="01170" pop="R">
+    <adresse>Lieu-Dit les Vertes Campagnes</adresse>
+    <ville>GEX</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Toilettes publiques</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Bar</service>
+      <service>Vente de gaz domestique</service>
+      <service>Vente de pétrole lampant</service>
+      <service>Baie de service auto</service>
+      <service>Piste poids lourds</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-08-28 16:21:15" valeur="1289"/>
+    <prix nom="SP95" id="2" maj="2014-09-20 15:09:11" valeur="1509"/>
+    <prix nom="SP98" id="6" maj="2014-08-28 16:21:15" valeur="1539"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1170003" latitude="4633755" longitude="607534" cp="01170" pop="R">
+    <adresse>Route de Divonne les Bains</adresse>
+    <ville>Gex</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-18 17:00:17" valeur="1290"/>
+    <prix nom="SP95" id="2" maj="2014-09-18 17:00:17" valeur="1510"/>
+    <prix nom="SP98" id="6" maj="2014-09-18 17:00:17" valeur="1540"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1170005" latitude="4633522" longitude="605800" cp="01170" pop="R">
+    <adresse> Avenue des Tilleuls</adresse>
+    <ville>GEX</ville>
+    <ouverture debut="07:00" fin="20:00" saufjour=""/>
+    <services>
+      <service>Toilettes publiques</service>
+      <service>Relais colis</service>
+      <service>Boutique non alimentaire</service>
+      <service>Vente de gaz domestique</service>
+      <service>Station de gonflage</service>
+      <service>Automate CB</service>
+      <service>Boutique alimentaire</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-27 07:16:19" valeur="1337"/>
+    <prix nom="SP95" id="2" maj="2014-09-27 07:16:33" valeur="1559"/>
+    <prix nom="SP98" id="6" maj="2014-09-27 07:16:50" valeur="1599"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1190001" latitude="4644088.87277" longitude="497304.663499" cp="01190" pop="R">
+    <adresse>PAE Pont de Vaux Est</adresse>
+    <ville>SAINT BéNIGNE</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+      <service>Toilettes publiques</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Aire de camping-cars</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-29 15:30:00" valeur="1278"/>
+    <prix nom="SP95" id="2" maj="2014-09-29 15:30:00" valeur="1479"/>
+    <prix nom="SP98" id="6" maj="2014-09-29 15:30:00" valeur="1512"/>
+    <rupture id="4" nom="GPLc" début="2011-06-30 11:00:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1200001" latitude="4610559" longitude="582292" cp="01200" pop="R">
+    <adresse>69 Rue de la République</adresse>
+    <ville>Bellegarde-sur-Valserine</ville>
+    <ouverture debut="08:30" fin="19:00" saufjour="Lundi;Mardi;Mercredi;Jeudi;Vendredi;Samedi"/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+      <service>Station de gonflage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-29 09:50:31" valeur="1272"/>
+    <prix nom="SP95" id="2" maj="2014-09-29 09:50:31" valeur="1479"/>
+    <prix nom="SP98" id="6" maj="2014-09-29 09:50:31" valeur="1518"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1200003" latitude="4612358" longitude="581180" cp="01200" pop="R">
+    <adresse>Avenue Maréchal de Lattre de Tassigny</adresse>
+    <ville>Bellegarde-sur-Valserine</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour="Dimanche"/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+      <service>Vente de pétrole lampant</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-22 09:03:28" valeur="1272"/>
+    <prix nom="SP95" id="2" maj="2014-09-22 09:03:28" valeur="1479"/>
+    <prix nom="E10" id="5" maj="2014-09-22 09:03:28" valeur="1457"/>
+    <prix nom="SP98" id="6" maj="2014-09-22 09:03:28" valeur="1517"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1200004" latitude="" longitude="" cp="01200" pop="R">
+    <adresse>79 RUE DE LA REPUBLIQUE</adresse>
+    <ville>BELLEGARDE</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services/>
+    <fermeture type="T" début="2009-02-01 00:00:00" fin=""/>
+    <prix/>
+    <rupture/>
+  </pdv>
+  <pdv id="1210001" latitude="4625303" longitude="611817" cp="01210" pop="R">
+    <adresse> Chemin de la Brunette</adresse>
+    <ville>FERNEY-VOLTAIRE</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-17 08:43:15" valeur="1273"/>
+    <prix nom="SP95" id="2" maj="2014-09-19 08:45:07" valeur="1475"/>
+    <prix nom="SP98" id="6" maj="2014-08-16 08:45:00" valeur="1525"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1210002" latitude="4625216.84169" longitude="611755.425253" cp="01210" pop="R">
+    <adresse>ROUTE DE GENEVE</adresse>
+    <ville>FERNEY-VOLTAIRE</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Lavage multi-programmes</service>
+      <service>Lavage haute-pression</service>
+      <service>Station de gonflage</service>
+      <service>Baie de service auto</service>
+      <service>Piste poids lourds</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-06-06 19:31:00" valeur="1344"/>
+    <prix nom="SP95" id="2" maj="2014-06-04 19:31:00" valeur="1574"/>
+    <prix nom="SP98" id="6" maj="2014-06-04 19:31:00" valeur="1654"/>
+    <rupture id="3" nom="E85" début="2009-11-03 14:18:00" fin=""/>
+    <rupture id="4" nom="GPLc" début="2009-11-03 14:18:00" fin=""/>
+    <rupture id="5" nom="E10" début="2009-11-03 14:18:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1210003" latitude="4624370.07853" longitude="609266.166369" cp="01210" pop="R">
+    <adresse>Route de Meyrin</adresse>
+    <ville>FERNEY-VOLTAIRE</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Station de gonflage</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Vente de gaz domestique</service>
+      <service>Piste poids lourds</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-13 09:05:08" valeur="1256"/>
+    <prix nom="SP95" id="2" maj="2014-09-13 09:05:08" valeur="1461"/>
+    <prix nom="E85" id="3" maj="2014-09-09 05:43:20" valeur="880"/>
+    <prix nom="E10" id="5" maj="2014-09-09 05:43:20" valeur="1435"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1220001" latitude="4634994" longitude="613218" cp="01220" pop="R">
+    <adresse>691 AVENUE DU CRET D'EAU</adresse>
+    <ville>Divonne-les-Bains</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+      <service>Station de gonflage</service>
+      <service>Station de lavage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-27 08:00:00" valeur="1284"/>
+    <prix nom="SP95" id="2" maj="2014-09-27 08:00:00" valeur="1500"/>
+    <prix nom="SP98" id="6" maj="2014-09-23 08:00:00" valeur="1531"/>
+    <rupture id="5" nom="E10" début="2012-07-26 08:00:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1230002" latitude="4594229.69288" longitude="543218.57296" cp="01230" pop="R">
+    <adresse>38 AVENUE DE L EUROPE</adresse>
+    <ville>SAINT-RAMBERT-EN-BUGEY</ville>
+    <ouverture debut="07:00" fin="19:30" saufjour="Dimanche"/>
+    <services>
+      <service>Toilettes publiques</service>
+      <service>Espace bébé / change</service>
+      <service>Vente de gaz domestique</service>
+      <service>Station de gonflage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-08-06 07:13:24" valeur="1350"/>
+    <prix nom="SP95" id="2" maj="2014-08-06 07:13:24" valeur="1550"/>
+    <prix nom="SP98" id="6" maj="2014-08-06 07:13:24" valeur="1600"/>
+    <rupture id="3" nom="E85" début="2010-10-19 14:57:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1230003" latitude="4592050.9891786" longitude="539407.43061309" cp="01230" pop="R">
+    <adresse>RD 1504</adresse>
+    <ville>Torcieu</ville>
+    <ouverture debut="07:00" fin="20:00" saufjour="Dimanche"/>
+    <services>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-08-06 20:07:38" valeur="1340"/>
+    <prix nom="SP95" id="2" maj="2014-08-06 20:07:38" valeur="1570"/>
+    <prix nom="SP98" id="6" maj="2014-04-16 19:34:05" valeur="1620"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1240001" latitude="4607194.01851" longitude="520368.883462" cp="01240" pop="R">
+    <adresse>LE BOURG</adresse>
+    <ville>DOMPIERRE-SUR-VEYLE</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour="Dimanche"/>
+    <services>
+      <service>Vente de gaz domestique</service>
+      <service>Station de gonflage</service>
+      <service>Piste poids lourds</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-26 08:09:39" valeur="1390"/>
+    <prix nom="SP95" id="2" maj="2014-09-26 08:09:39" valeur="1690"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1250001" latitude="4620355.8237727" longitude="529588.28488323" cp="01250" pop="A">
+    <adresse>A 40 - AIRE DE BOURG JASSERON</adresse>
+    <ville>Jasseron</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>GPL</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Station de gonflage</service>
+      <service>Piste poids lourds</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-23 14:00:00" valeur="1424"/>
+    <prix nom="GPLc" id="4" maj="2014-09-25 09:47:59" valeur="939"/>
+    <prix nom="E10" id="5" maj="2014-09-25 14:00:00" valeur="1594"/>
+    <prix nom="SP98" id="6" maj="2014-09-25 14:00:00" valeur="1674"/>
+    <rupture id="2" nom="SP95" début="2011-06-03 12:45:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1250002" latitude="4617527" longitude="532754" cp="01250" pop="A">
+    <adresse>AIRE DE BOURG TEYSONGUE A 40</adresse>
+    <ville>Ceyzériat</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Piste poids lourds</service>
+      <service>Toilettes publiques</service>
+      <service>Espace bébé / change</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>GPL</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Station de gonflage</service>
+      <service>Douches</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-24 06:00:00" valeur="1430"/>
+    <prix nom="GPLc" id="4" maj="2014-09-24 06:00:00" valeur="959"/>
+    <prix nom="E10" id="5" maj="2014-09-24 06:00:00" valeur="1600"/>
+    <rupture id="2" nom="SP95" début="2013-03-20 17:05:02.649251" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1250004" latitude="4613408" longitude="528880" cp="01250" pop="R">
+    <adresse>route de la Vavrette</adresse>
+    <ville>TOSSIAT</ville>
+    <ouverture debut="07:00" fin="20:00" saufjour=""/>
+    <services>
+      <service>Toilettes publiques</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Vente de gaz domestique</service>
+      <service>Vente de fioul domestique</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Station de gonflage</service>
+      <service>Piste poids lourds</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-19 06:58:01" valeur="1339"/>
+    <prix nom="SP95" id="2" maj="2014-09-09 08:41:11" valeur="1549"/>
+    <prix nom="SP98" id="6" maj="2014-09-09 08:41:48" valeur="1579"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1270002" latitude="4638325" longitude="534553" cp="01270" pop="R">
+    <adresse> Grande Rue</adresse>
+    <ville>COLIGNY</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Toilettes publiques</service>
+      <service>Boutique non alimentaire</service>
+      <service>Restauration à emporter</service>
+      <service>Vente de gaz domestique</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Station de gonflage</service>
+      <service>Piste poids lourds</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-07-16 18:24:12" valeur="1359"/>
+    <prix nom="SP95" id="2" maj="2014-07-16 18:24:12" valeur="1569"/>
+    <rupture id="6" nom="SP98" début="2014-06-12 00:00:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1290001" latitude="4624732" longitude="489254" cp="01290" pop="R">
+    <adresse>Route de Chatillon Sur Chalaronne</adresse>
+    <ville>LAIZ</ville>
+    <ouverture debut="09:00" fin="20:00" saufjour="Dimanche"/>
+    <services>
+      <service>Automate CB</service>
+      <service>Toilettes publiques</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Vente de gaz domestique</service>
+      <service>Station de gonflage</service>
+      <service>Lavage multi-programmes</service>
+      <service>Location de véhicule</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-26 05:07:05" valeur="1270"/>
+    <prix nom="SP95" id="2" maj="2014-09-26 05:07:05" valeur="1470"/>
+    <prix nom="SP98" id="6" maj="2014-09-26 05:07:05" valeur="1510"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1300001" latitude="4576043" longitude="568650" cp="01300" pop="R">
+    <adresse>Boulevard de Verdun</adresse>
+    <ville>Belley</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Station de gonflage</service>
+      <service>Station de lavage</service>
+      <service>Lavage multi-programmes</service>
+      <service>Lavage haute-pression</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-26 11:08:47" valeur="1282"/>
+    <prix nom="SP95" id="2" maj="2014-09-23 12:44:05" valeur="1485"/>
+    <prix nom="E10" id="5" maj="2014-04-26 07:37:34" valeur="1537"/>
+    <prix nom="SP98" id="6" maj="2014-09-26 11:08:47" valeur="1516"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1300002" latitude="4575572" longitude="568334" cp="01300" pop="R">
+    <adresse> Rue Mante</adresse>
+    <ville>BELLEY</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-23 08:35:40" valeur="1286"/>
+    <prix nom="SP95" id="2" maj="2014-09-23 08:35:41" valeur="1490"/>
+    <rupture id="6" nom="SP98" début="2014-03-03 14:40:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1300003" latitude="4577800" longitude="568946" cp="01300" pop="R">
+    <adresse>RN 504 - ZI de Penaye </adresse>
+    <ville>Chazey-Bons</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Vente de gaz domestique</service>
+      <service>Relais colis</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-26 07:41:35" valeur="1264"/>
+    <prix nom="SP95" id="2" maj="2014-09-26 07:41:52" valeur="1472"/>
+    <prix nom="SP98" id="6" maj="2014-09-16 07:47:28" valeur="1497"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1310001" latitude="4625082.58935" longitude="511211.332738" cp="01310" pop="R">
+    <adresse>1123 Route de Mâcon</adresse>
+    <ville>POLLIAT</ville>
+    <ouverture debut="06:45" fin="19:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Lavage multi-programmes</service>
+      <service>Lavage haute-pression</service>
+      <service>Station de gonflage</service>
+      <service>Baie de service auto</service>
+      <service>Piste poids lourds</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-19 18:47:11" valeur="1343"/>
+    <prix nom="E10" id="5" maj="2014-09-16 18:25:32" valeur="1542"/>
+    <prix nom="SP98" id="6" maj="2014-09-16 18:25:32" valeur="1622"/>
+    <rupture id="2" nom="SP95" début="2013-06-01 00:00:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1310003" latitude="4625611" longitude="505695" cp="01310" pop="R">
+    <adresse>Lieu-dit Logis-Neuf</adresse>
+    <ville>Confrançon</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Aire de camping-cars</service>
+      <service>Piste poids lourds</service>
+      <service>Station de gonflage</service>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-27 08:46:42" valeur="1259"/>
+    <prix nom="SP95" id="2" maj="2014-09-27 08:46:42" valeur="1469"/>
+    <prix nom="SP98" id="6" maj="2014-09-27 08:46:42" valeur="1519"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1320001" latitude="4599134.6958" longitude="516871.240222" cp="01320" pop="R">
+    <adresse>Grande Rue</adresse>
+    <ville>CHALAMONT</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour="Dimanche"/>
+    <services>
+      <service>Vente de gaz domestique</service>
+      <service>Boutique non alimentaire</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Lavage haute-pression</service>
+      <service>Station de gonflage</service>
+      <service>Automate CB</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-24 07:37:31" valeur="1390"/>
+    <prix nom="SP95" id="2" maj="2014-09-24 07:37:31" valeur="1610"/>
+    <rupture id="6" nom="SP98" début="2013-02-01 08:07:00" fin=""/>
+    <rupture id="5" nom="E10" début="2013-02-01 08:07:00" fin=""/>
+    <rupture id="4" nom="GPLc" début="2013-02-01 08:06:00" fin=""/>
+    <rupture id="3" nom="E85" début="2013-02-01 08:06:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1320002" latitude="4599780" longitude="517672" cp="01320" pop="R">
+    <adresse>Chemin du Petit Étang</adresse>
+    <ville>Chalamont</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-09 19:12:10" valeur="1299"/>
+    <prix nom="SP95" id="2" maj="2014-09-09 19:12:11" valeur="1499"/>
+    <prix nom="E10" id="5" maj="2014-09-09 19:12:11" valeur="1469"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1330001" latitude="4599868" longitude="489864" cp="01330" pop="R">
+    <adresse>245, Route du 3 Septembre 1944</adresse>
+    <ville>Ambérieux-en-Dombes</ville>
+    <ouverture debut="06:30" fin="20:00" saufjour="Dimanche"/>
+    <services>
+      <service>Automate CB</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Lavage haute-pression</service>
+      <service>Station de gonflage</service>
+      <service>Piste poids lourds</service>
+      <service>Toilettes publiques</service>
+      <service>Vente de gaz domestique</service>
+      <service>Station de lavage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-10 07:34:17" valeur="1399"/>
+    <prix nom="SP95" id="2" maj="2014-09-10 07:34:17" valeur="1589"/>
+    <prix nom="SP98" id="6" maj="2014-09-10 07:34:17" valeur="1639"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1330002" latitude="4600668.6423" longitude="503524.733969" cp="01330" pop="R">
+    <adresse>zac de la tuilerie</adresse>
+    <ville>VILLARS-LES-DOMBES</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+      <service>Station de gonflage</service>
+      <service>Station de lavage</service>
+      <service>Lavage multi-programmes</service>
+      <service>Lavage haute-pression</service>
+      <service>Location de véhicule</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-27 09:27:23" valeur="1269"/>
+    <prix nom="SP95" id="2" maj="2014-09-05 08:48:47" valeur="1489"/>
+    <prix nom="E10" id="5" maj="2014-09-05 08:48:47" valeur="1469"/>
+    <prix nom="SP98" id="6" maj="2014-09-05 08:48:47" valeur="1539"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1340001" latitude="4633208" longitude="512278" cp="01340" pop="R">
+    <adresse> Rue des Luyers</adresse>
+    <ville>MONTREVEL-EN-BRESSE</ville>
+    <ouverture debut="08:30" fin="19:00" saufjour="Dimanche"/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+      <service>Station de gonflage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-29 08:55:49" valeur="1254"/>
+    <prix nom="SP95" id="2" maj="2014-09-29 08:55:49" valeur="1474"/>
+    <prix nom="SP98" id="6" maj="2014-09-29 08:55:49" valeur="1518"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1340002" latitude="4632289" longitude="513748" cp="01340" pop="R">
+    <adresse>RN.75</adresse>
+    <ville>Malafretaz</ville>
+    <ouverture debut="07:00" fin="20:00" saufjour=""/>
+    <services>
+      <service>Boutique non alimentaire</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Lavage multi-programmes</service>
+      <service>Lavage haute-pression</service>
+      <service>Station de gonflage</service>
+      <service>Piste poids lourds</service>
+      <service>Vente de gaz domestique</service>
+      <service>Station de lavage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-20 07:25:19" valeur="1365"/>
+    <prix nom="E10" id="5" maj="2014-09-05 16:46:14" valeur="1537"/>
+    <prix nom="SP98" id="6" maj="2014-09-05 16:46:55" valeur="1617"/>
+    <rupture id="2" nom="SP95" début="2012-07-17 14:38:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1340003" latitude="4634627" longitude="512615" cp="01340" pop="R">
+    <adresse>Les Cézilles</adresse>
+    <ville>Jayat</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Vente de pétrole lampant</service>
+      <service>Station de gonflage</service>
+      <service>Piste poids lourds</service>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-27 09:51:43" valeur="1254"/>
+    <prix nom="SP95" id="2" maj="2014-09-27 09:51:43" valeur="1455"/>
+    <prix nom="SP98" id="6" maj="2014-09-24 09:10:04" valeur="1514"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1340004" latitude="4628338" longitude="516201" cp="01340" pop="R">
+    <adresse>771 Route de Bourg</adresse>
+    <ville>ATTIGNAT</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Vente de gaz domestique</service>
+      <service>Station de gonflage</service>
+      <service>Automate CB</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-08-01 16:19:00" valeur="1378"/>
+    <prix nom="SP95" id="2" maj="2014-08-01 16:19:01" valeur="1621"/>
+    <prix nom="E85" id="3" maj="2014-08-01 16:19:01" valeur="949"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1350001" latitude="4584775" longitude="578468" cp="01350" pop="R">
+    <adresse> Avenue Jean Falconnier</adresse>
+    <ville>CULOZ</ville>
+    <ouverture debut="08:45" fin="19:15" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-25 09:17:23" valeur="1281"/>
+    <prix nom="SP95" id="2" maj="2014-09-29 09:26:53" valeur="1479"/>
+    <prix nom="SP98" id="6" maj="2014-09-29 09:26:53" valeur="1509"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1350003" latitude="4584899.2245048" longitude="576382.75878992" cp="01350" pop="R">
+    <adresse>PARC D'ACTIVITE DES FOURS</adresse>
+    <ville>Béon</ville>
+    <ouverture debut="00:00" fin="00:00" saufjour=""/>
+    <services/>
+    <prix nom="Gazole" id="1" maj="2014-09-18 07:27:02" valeur="1281"/>
+    <prix nom="SP95" id="2" maj="2014-09-18 07:27:18" valeur="1472"/>
+    <prix nom="SP98" id="6" maj="2014-09-06 18:21:12" valeur="1508"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1360002" latitude="4584889" longitude="511958" cp="01360" pop="R">
+    <adresse> Route de Lyon</adresse>
+    <ville>BALAN</ville>
+    <ouverture debut="07:00" fin="20:00" saufjour=""/>
+    <services>
+      <service>Toilettes publiques</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Station de gonflage</service>
+      <service>Station de lavage</service>
+      <service>Lavage multi-programmes</service>
+      <service>Lavage haute-pression</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-05-30 09:01:47" valeur="1389"/>
+    <prix nom="SP95" id="2" maj="2014-05-30 09:01:47" valeur="1579"/>
+    <rupture id="3" nom="E85" début="2011-11-23 15:13:00" fin=""/>
+    <rupture id="4" nom="GPLc" début="2011-11-23 15:13:00" fin=""/>
+    <rupture id="5" nom="E10" début="2011-11-23 15:13:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1370001" latitude="4626248" longitude="527957" cp="01370" pop="R">
+    <adresse> Route de Strasbourg</adresse>
+    <ville>SAINT-ÉTIENNE-DU-BOIS</ville>
+    <ouverture debut="06:00" fin="20:30" saufjour=""/>
+    <services>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>GPL</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Lavage multi-programmes</service>
+      <service>Lavage haute-pression</service>
+      <service>Station de gonflage</service>
+      <service>Baie de service auto</service>
+      <service>Piste poids lourds</service>
+      <service>Restauration à emporter</service>
+      <service>Vente de gaz domestique</service>
+      <service>Station de lavage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-12 11:40:56" valeur="1364"/>
+    <prix nom="SP95" id="2" maj="2014-09-12 11:40:56" valeur="1569"/>
+    <prix nom="GPLc" id="4" maj="2014-09-12 11:40:56" valeur="920"/>
+    <prix nom="SP98" id="6" maj="2014-09-12 11:40:56" valeur="1609"/>
+    <rupture id="5" nom="E10" début="2014-09-12 00:00:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1390001" latitude="4592720" longitude="495794" cp="01390" pop="R">
+    <adresse>Allées des Marronniers</adresse>
+    <ville>Saint-André-de-Corcy</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+      <service>Station de gonflage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-29 08:59:12" valeur="1266"/>
+    <prix nom="SP95" id="2" maj="2014-09-29 08:59:12" valeur="1492"/>
+    <prix nom="SP98" id="6" maj="2014-09-29 08:59:12" valeur="1545"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1390002" latitude="4593629" longitude="496509" cp="01390" pop="R">
+    <adresse>Z.I. DE CURE</adresse>
+    <ville>Saint-André-de-Corcy</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Vente de fioul domestique</service>
+      <service>GPL</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Lavage multi-programmes</service>
+      <service>Lavage haute-pression</service>
+      <service>Station de gonflage</service>
+      <service>Baie de service auto</service>
+      <service>Piste poids lourds</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-19 19:05:20" valeur="1340"/>
+    <prix nom="E10" id="5" maj="2014-09-16 18:41:24" valeur="1520"/>
+    <prix nom="SP98" id="6" maj="2014-09-16 18:41:24" valeur="1600"/>
+    <rupture id="2" nom="SP95" début="2013-03-14 11:16:00" fin=""/>
+    <rupture id="3" nom="E85" début="2009-10-08 20:08:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1390004" latitude="4589681" longitude="492948" cp="01390" pop="A">
+    <adresse>AIRE DE MIONNAY OUEST GALMIER A46</adresse>
+    <ville>MIONNAY</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Toilettes publiques</service>
+      <service>Espace bébé / change</service>
+      <service>Boutique alimentaire</service>
+      <service>GPL</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Station de gonflage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-15 23:34:58" valeur="1449"/>
+    <prix nom="GPLc" id="4" maj="2014-07-31 18:04:56" valeur="939"/>
+    <prix nom="E10" id="5" maj="2014-09-23 22:32:20" valeur="1619"/>
+    <prix nom="SP98" id="6" maj="2014-09-23 22:32:21" valeur="1699"/>
+    <rupture id="3" nom="E85" début="2010-10-19 14:55:00" fin=""/>
+    <rupture id="2" nom="SP95" début="2009-12-10 18:00:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1390006" latitude="4589632.2355835" longitude="493223.09072943" cp="01390" pop="A">
+    <adresse>Aire de Mionnay Est Chatanay</adresse>
+    <ville>Mionnay</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Toilettes publiques</service>
+      <service>Douches</service>
+      <service>Espace bébé / change</service>
+      <service>Boutique alimentaire</service>
+      <service>Restauration à emporter</service>
+      <service>Restauration sur place</service>
+      <service>Carburant qualité supérieure</service>
+      <service>GPL</service>
+      <service>Station de gonflage</service>
+      <service>Piste poids lourds</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-06 13:25:38" valeur="1459"/>
+    <prix nom="GPLc" id="4" maj="2014-09-06 13:25:38" valeur="939"/>
+    <prix nom="E10" id="5" maj="2014-09-06 13:25:38" valeur="1639"/>
+    <prix nom="SP98" id="6" maj="2014-09-06 13:25:38" valeur="1720"/>
+    <rupture id="3" nom="E85" début="2009-11-20 10:57:00" fin=""/>
+    <rupture id="2" nom="SP95" début="2011-11-29 17:02:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1400001" latitude="4611906" longitude="496114" cp="01400" pop="R">
+    <adresse>AVENUE MARECHAL FOCH</adresse>
+    <ville>CHATILLON-SUR-CHALARONNE</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Toilettes publiques</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Restauration à emporter</service>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-29 11:10:36" valeur="1254"/>
+    <prix nom="SP95" id="2" maj="2014-09-29 11:10:36" valeur="1454"/>
+    <prix nom="SP98" id="6" maj="2014-09-29 11:10:36" valeur="1509"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1400003" latitude="4611634.99194" longitude="494863.274963" cp="01400" pop="R">
+    <adresse>AVENUE PIERRE MARCAULT</adresse>
+    <ville>CHATILLON SUR CHALARONNE</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de fioul domestique</service>
+      <service>Station de gonflage</service>
+      <service>Baie de service auto</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-07-02 20:12:29" valeur="1420"/>
+    <prix nom="SP95" id="2" maj="2014-06-21 07:44:17" valeur="1660"/>
+    <rupture id="6" nom="SP98" début="2014-07-02 00:00:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1400005" latitude="4611765" longitude="496036" cp="01400" pop="R">
+    <adresse> Avenue Jean Jaurès</adresse>
+    <ville>CHATILLON SUR CHALARONNE</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services/>
+    <prix nom="Gazole" id="1" maj="2014-09-26 10:08:41" valeur="1254"/>
+    <prix nom="SP95" id="2" maj="2014-09-26 10:08:42" valeur="1454"/>
+    <prix nom="SP98" id="6" maj="2014-09-26 10:08:42" valeur="1494"/>
+    <rupture id="3" nom="E85" début="2011-11-18 10:23:00" fin=""/>
+    <rupture id="5" nom="E10" début="2014-07-16 09:20:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1430001" latitude="4612370" longitude="549956" cp="01430" pop="A">
+    <adresse>AUTOROUTE A 40 - SENS PARIS PROV</adresse>
+    <ville>CEIGNES</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>GPL</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Station de gonflage</service>
+      <service>Piste poids lourds</service>
+      <service>Toilettes publiques</service>
+      <service>Douches</service>
+      <service>Espace bébé / change</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-25 13:55:31" valeur="1419"/>
+    <prix nom="GPLc" id="4" maj="2014-09-25 13:55:31" valeur="939"/>
+    <prix nom="E10" id="5" maj="2014-09-25 13:55:31" valeur="1599"/>
+    <prix nom="SP98" id="6" maj="2014-09-25 13:55:31" valeur="1679"/>
+    <rupture id="2" nom="SP95" début="2011-06-06 16:28:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1430003" latitude="4612030.08415" longitude="549462.912843" cp="01430" pop="A">
+    <adresse>AIRE DE CEIGNES HAUT BUGEY</adresse>
+    <ville>CEIGNES</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Toilettes publiques</service>
+      <service>Douches</service>
+      <service>Espace bébé / change</service>
+      <service>Boutique alimentaire</service>
+      <service>GPL</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Station de gonflage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-25 09:39:25" valeur="1444"/>
+    <prix nom="E85" id="3" maj="2009-11-12 16:02:11" valeur="1500"/>
+    <prix nom="GPLc" id="4" maj="2014-07-11 09:57:08" valeur="940"/>
+    <prix nom="E10" id="5" maj="2014-09-25 09:39:36" valeur="1624"/>
+    <prix nom="SP98" id="6" maj="2014-09-25 09:39:46" valeur="1719"/>
+    <rupture id="2" nom="SP95" début="2012-03-07 14:21:00" fin=""/>
+    <rupture id="3" nom="E85" début="2009-11-12 15:57:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1430004" latitude="4612757" longitude="553836" cp="01430" pop="R">
+    <adresse>Chemin de l'Égalité</adresse>
+    <ville>Maillat</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Toilettes publiques</service>
+      <service>Vente de gaz domestique</service>
+      <service>Vente de fioul domestique</service>
+      <service>Carburant qualité supérieure</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-22 11:58:49" valeur="1387"/>
+    <prix nom="SP95" id="2" maj="2014-09-04 18:12:20" valeur="1598"/>
+    <prix nom="E10" id="5" maj="2014-08-19 11:47:10" valeur="1574"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1440001" latitude="4623898.57474" longitude="522856.45722" cp="01440" pop="R">
+    <adresse>1029 ROUTE DE MARBOZ-LOUHANS</adresse>
+    <ville>VIRIAT</ville>
+    <ouverture debut="06:30" fin="19:00" saufjour="Dimanche"/>
+    <services>
+      <service>Boutique non alimentaire</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Lavage multi-programmes</service>
+      <service>Station de gonflage</service>
+      <service>Baie de service auto</service>
+      <service>Piste poids lourds</service>
+      <service>Station de lavage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-25 05:51:52" valeur="1370"/>
+    <prix nom="SP95" id="2" maj="2014-09-25 05:51:53" valeur="1570"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1440002" latitude="4623586" longitude="526288" cp="01440" pop="R">
+    <adresse> Route de Strasbourg</adresse>
+    <ville>VIRIAT</ville>
+    <ouverture debut="06:00" fin="20:00" saufjour=""/>
+    <services>
+      <service>Toilettes publiques</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Baie de service auto</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-20 11:50:59" valeur="1350"/>
+    <prix nom="E10" id="5" maj="2014-09-20 11:50:59" valeur="1520"/>
+    <prix nom="SP98" id="6" maj="2014-09-20 11:50:59" valeur="1600"/>
+    <rupture id="2" nom="SP95" début="2011-06-03 07:25:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1440003" latitude="4621667" longitude="521340" cp="01440" pop="R">
+    <adresse>261 Route de Paris</adresse>
+    <ville>Viriat</ville>
+    <ouverture debut="06:30" fin="19:30" saufjour="Dimanche"/>
+    <services>
+      <service>Automate CB</service>
+      <service>Toilettes publiques</service>
+      <service>Relais colis</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Restauration à emporter</service>
+      <service>Vente de gaz domestique</service>
+      <service>Vente de fioul domestique</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Station de gonflage</service>
+      <service>Station de lavage</service>
+      <service>Lavage multi-programmes</service>
+      <service>Piste poids lourds</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-18 18:46:18" valeur="1329"/>
+    <prix nom="SP95" id="2" maj="2014-09-08 19:12:09" valeur="1539"/>
+    <prix nom="E10" id="5" maj="2014-06-24 17:28:25" valeur="1569"/>
+    <prix nom="SP98" id="6" maj="2014-09-08 19:13:17" valeur="1569"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1460001" latitude="4617225" longitude="557729" cp="01460" pop="R">
+    <adresse>68 Rue du Juras</adresse>
+    <ville>MONTREAL-LA-CLUSE</ville>
+    <ouverture debut="08:30" fin="19:00" saufjour=""/>
+    <services/>
+    <prix nom="Gazole" id="1" maj="2014-09-27 09:06:10" valeur="1279"/>
+    <prix nom="SP95" id="2" maj="2014-09-27 09:06:10" valeur="1495"/>
+    <prix nom="SP98" id="6" maj="2014-09-27 09:06:10" valeur="1529"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1460002" latitude="4618665" longitude="552607" cp="01460" pop="R">
+    <adresse>Route de Berthiand</adresse>
+    <ville>Nurieux-Volognat</ville>
+    <ouverture debut="06:30" fin="19:00" saufjour="Samedi;Dimanche"/>
+    <services>
+      <service>Automate CB</service>
+      <service>Boutique non alimentaire</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Station de gonflage</service>
+      <service>Piste poids lourds</service>
+      <service>Toilettes publiques</service>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-27 07:00:00" valeur="1380"/>
+    <prix nom="SP95" id="2" maj="2014-09-27 07:00:00" valeur="1580"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1460003" latitude="4616586" longitude="557129" cp="01460" pop="R">
+    <adresse>Rue de l'industrie </adresse>
+    <ville>Port</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-26 13:58:11" valeur="1279"/>
+    <prix nom="SP95" id="2" maj="2014-09-26 13:58:37" valeur="1495"/>
+    <prix nom="E10" id="5" maj="2014-09-12 10:14:00" valeur="1449"/>
+    <prix nom="SP98" id="6" maj="2014-09-22 09:37:13" valeur="1529"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1470001" latitude="4579510" longitude="546083" cp="01470" pop="R">
+    <adresse>LES GRANGES DE MONTAGNIEU</adresse>
+    <ville>Montagnieu</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour="Dimanche"/>
+    <services>
+      <service>Vente de fioul domestique</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Station de gonflage</service>
+      <service>Baie de service auto</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-08 09:28:24" valeur="1360"/>
+    <prix nom="SP95" id="2" maj="2014-09-08 09:28:24" valeur="1570"/>
+    <prix nom="SP98" id="6" maj="2014-09-08 09:28:24" valeur="1600"/>
+    <rupture id="5" nom="E10" début="2014-02-18 14:00:00" fin=""/>
+    <rupture id="3" nom="E85" début="1970-01-01 00:59:59" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1470002" latitude="4578776" longitude="545414" cp="01470" pop="R">
+    <adresse> Rue des Verchères</adresse>
+    <ville>BRIORD</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Toilettes publiques</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Restauration à emporter</service>
+      <service>Vente de gaz domestique</service>
+      <service>Station de lavage</service>
+      <service>Lavage multi-programmes</service>
+      <service>Lavage haute-pression</service>
+      <service>Location de véhicule</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-26 14:51:33" valeur="1271"/>
+    <prix nom="E10" id="5" maj="2014-09-26 14:51:33" valeur="1452"/>
+    <prix nom="SP98" id="6" maj="2014-09-26 14:51:33" valeur="1530"/>
+    <rupture id="2" nom="SP95" début="2012-11-03 12:06:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1480001" latitude="4598403" longitude="475694" cp="01480" pop="R">
+    <adresse> Rue Édouard Herriot</adresse>
+    <ville>JASSANS-RIOTTIER</ville>
+    <ouverture debut="07:30" fin="19:45" saufjour=""/>
+    <services>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-29 09:18:07" valeur="1266"/>
+    <prix nom="SP95" id="2" maj="2014-09-19 08:05:33" valeur="1469"/>
+    <prix nom="SP98" id="6" maj="2014-09-29 09:18:07" valeur="1507"/>
+    <rupture id="5" nom="E10" début="2014-04-23 10:55:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1500001" latitude="4596952" longitude="535345" cp="01500" pop="R">
+    <adresse>Rue Alexandre Bérard</adresse>
+    <ville>Ambérieu-en-Bugey</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour="Dimanche"/>
+    <services>
+      <service>Vente de gaz domestique</service>
+      <service>Station de gonflage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-29 08:54:15" valeur="1269"/>
+    <prix nom="SP95" id="2" maj="2014-09-29 08:54:15" valeur="1499"/>
+    <prix nom="SP98" id="6" maj="2014-09-29 08:54:16" valeur="1509"/>
+    <rupture id="5" nom="E10" début="2013-11-29 14:35:00" fin=""/>
+    <rupture id="3" nom="E85" début="2011-12-06 10:35:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1500003" latitude="4597592" longitude="530925" cp="01500" pop="R">
+    <adresse>550, Avenue Jean Mermoz</adresse>
+    <ville>CHâTEAU-GAILLARD</ville>
+    <ouverture debut="06:00" fin="22:00" saufjour=""/>
+    <services>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Station de gonflage</service>
+      <service>Piste poids lourds</service>
+      <service>Toilettes publiques</service>
+      <service>Douches</service>
+      <service>Restauration à emporter</service>
+      <service>Restauration sur place</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-27 08:06:29" valeur="1360"/>
+    <prix nom="SP95" id="2" maj="2014-09-27 08:06:29" valeur="1550"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1500004" latitude="4595700" longitude="533285" cp="01500" pop="R">
+    <adresse>15 Avenue de la Libération</adresse>
+    <ville>AMBéRIEU-EN-BUGEY</ville>
+    <ouverture debut="06:45" fin="20:30" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Vente de gaz domestique</service>
+      <service>Vente de fioul domestique</service>
+      <service>Station de gonflage</service>
+      <service>Lavage multi-programmes</service>
+      <service>Piste poids lourds</service>
+      <service>Baie de service auto</service>
+      <service>Toilettes publiques</service>
+      <service>Carburant qualité supérieure</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-27 08:05:26" valeur="1350"/>
+    <prix nom="SP95" id="2" maj="2014-09-27 08:05:26" valeur="1550"/>
+    <prix nom="SP98" id="6" maj="2014-09-27 08:05:26" valeur="1580"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1500006" latitude="4597592" longitude="530925" cp="01500" pop="R">
+    <adresse>550, RUE JEAN MERMOZ</adresse>
+    <ville>CHâTEAU-GAILLARD</ville>
+    <ouverture debut="06:00" fin="22:00" saufjour=""/>
+    <services>
+      <service>Toilettes publiques</service>
+      <service>Douches</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Restauration à emporter</service>
+      <service>Restauration sur place</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Station de gonflage</service>
+      <service>Piste poids lourds</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-26 16:25:15" valeur="1350"/>
+    <prix nom="SP95" id="2" maj="2014-09-18 08:12:52" valeur="1540"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1500007" latitude="4597268" longitude="533747" cp="01500" pop="R">
+    <adresse>CENTRE COMMERCIAL DE L'AVIATIONRAIS</adresse>
+    <ville>Ambérieu-en-Bugey</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services/>
+    <prix nom="Gazole" id="1" maj="2014-09-29 08:35:00" valeur="1269"/>
+    <prix nom="SP95" id="2" maj="2014-09-29 08:35:00" valeur="1499"/>
+    <prix nom="GPLc" id="4" maj="2014-09-29 08:35:00" valeur="840"/>
+    <prix nom="E10" id="5" maj="2014-09-29 08:35:00" valeur="1459"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1510001" latitude="4587246.15873" longitude="569677.435972" cp="01510" pop="R">
+    <adresse>1 RUE DES CHAMPS</adresse>
+    <ville>ARTEMARE</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Boutique alimentaire</service>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-29 20:01:24" valeur="1279"/>
+    <prix nom="SP95" id="2" maj="2014-09-18 07:57:58" valeur="1479"/>
+    <prix nom="SP98" id="6" maj="2014-08-06 09:18:32" valeur="1569"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1510002" latitude="4584755" longitude="565428" cp="01510" pop="R">
+    <adresse>Chef Lieu</adresse>
+    <ville>Virieu-le-Grand</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour="Dimanche"/>
+    <services>
+      <service>Vente de gaz domestique</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Station de gonflage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-12 10:11:14" valeur="1380"/>
+    <prix nom="SP95" id="2" maj="2014-09-12 10:11:14" valeur="1590"/>
+    <prix nom="SP98" id="6" maj="2014-09-12 10:11:14" valeur="1620"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1540001" latitude="4619773" longitude="499363" cp="01540" pop="R">
+    <adresse>Route de Neuville</adresse>
+    <ville>VONNAS</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Carburant qualité supérieure</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-29 08:48:05" valeur="1264"/>
+    <prix nom="SP95" id="2" maj="2014-09-29 08:48:06" valeur="1469"/>
+    <prix nom="SP98" id="6" maj="2014-09-29 08:48:06" valeur="1515"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1540002" latitude="4621979" longitude="498991" cp="01540" pop="R">
+    <adresse>za les grands varays rte de neuville</adresse>
+    <ville>Vonnas</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-27 08:38:52" valeur="1254"/>
+    <prix nom="SP95" id="2" maj="2014-09-27 08:38:52" valeur="1454"/>
+    <prix nom="E10" id="5" maj="2014-09-27 08:38:52" valeur="1434"/>
+    <rupture id="3" nom="E85" début="2009-11-09 08:50:00" fin=""/>
+    <rupture id="4" nom="GPLc" début="2010-08-21 09:46:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1560000" latitude="4645883" longitude="507477" cp="01560" pop="R">
+    <adresse>Route de Pont-de-Vaux</adresse>
+    <ville>Saint-Trivier-de-Courtes</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Lavage haute-pression</service>
+      <service>Lavage multi-programmes</service>
+      <service>Station de gonflage</service>
+      <service>Station de lavage</service>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-09 10:47:46" valeur="1259"/>
+    <prix nom="SP95" id="2" maj="2014-09-09 10:47:47" valeur="1459"/>
+    <prix nom="SP98" id="6" maj="2014-09-09 10:47:47" valeur="1489"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1570001" latitude="4632904" longitude="488493" cp="01570" pop="R">
+    <adresse> Grande Rue</adresse>
+    <ville>FEILLENS</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-15 10:01:38" valeur="1259"/>
+    <prix nom="SP95" id="2" maj="2014-09-15 10:01:38" valeur="1460"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1590001" latitude="4632031" longitude="565752" cp="01590" pop="R">
+    <adresse>Rue du 21 Juillet 1944</adresse>
+    <ville>DORTAN</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Toilettes publiques</service>
+      <service>Vente de gaz domestique</service>
+      <service>Carburant qualité supérieure</service>
+      <service>Station de gonflage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-12 10:10:10" valeur="1339"/>
+    <prix nom="SP95" id="2" maj="2014-09-29 14:52:04" valeur="1544"/>
+    <prix nom="SP98" id="6" maj="2014-09-29 14:52:05" valeur="1589"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1590002" latitude="4632488.24117" longitude="567177.372838" cp="01590" pop="R">
+    <adresse>ZAC sous la Combe</adresse>
+    <ville>LAVANCIA-EPERCY</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Boutique alimentaire</service>
+      <service>Piste poids lourds</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-24 18:27:41" valeur="1268"/>
+    <prix nom="SP95" id="2" maj="2014-09-17 19:07:12" valeur="1479"/>
+    <prix nom="E10" id="5" maj="2014-09-24 18:27:41" valeur="1443"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1600001" latitude="4582834" longitude="497183" cp="01700" pop="R">
+    <adresse> Rue du Figuier</adresse>
+    <ville>MIRIBEL</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-24 15:33:09" valeur="1259"/>
+    <prix nom="SP95" id="2" maj="2014-09-29 08:43:18" valeur="1472"/>
+    <prix nom="SP98" id="6" maj="2014-09-29 08:43:18" valeur="1533"/>
+    <rupture id="5" nom="E10" début="2014-07-18 00:00:00" fin=""/>
+    <rupture id="3" nom="E85" début="2013-02-19 16:07:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1600002" latitude="4593472.4745" longitude="479062.770497" cp="01600" pop="R">
+    <adresse>324 Route de Lyon</adresse>
+    <ville>TREVOUX</ville>
+    <ouverture debut="08:30" fin="19:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-29 08:23:14" valeur="1259"/>
+    <prix nom="SP95" id="2" maj="2014-09-29 08:23:14" valeur="1465"/>
+    <prix nom="SP98" id="6" maj="2014-09-29 08:23:14" valeur="1499"/>
+    <rupture id="5" nom="E10" début="2014-05-23 16:00:00" fin=""/>
+    <rupture id="3" nom="E85" début="2009-11-03 13:33:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1600003" latitude="4590391.02931" longitude="481872.214413" cp="01600" pop="R">
+    <adresse>Avenue Lavoisier</adresse>
+    <ville>MASSIEUX</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Toilettes publiques</service>
+      <service>Boutique alimentaire</service>
+      <service>Vente de gaz domestique</service>
+      <service>Piste poids lourds</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-29 13:53:54" valeur="1272"/>
+    <prix nom="SP95" id="2" maj="2014-09-29 13:53:54" valeur="1480"/>
+    <prix nom="SP98" id="6" maj="2014-09-29 13:53:54" valeur="1516"/>
+    <rupture id="4" nom="GPLc" début="2014-02-17 00:00:00" fin=""/>
+    <rupture id="5" nom="E10" début="2013-07-30 00:00:00" fin=""/>
+    <rupture id="3" nom="E85" début="2014-02-17 00:00:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1630001" latitude="4624211" longitude="602491" cp="01630" pop="R">
+    <adresse>RUE DE GENEVE -</adresse>
+    <ville>SAINT-GENIS-POUILLY</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-16 14:47:44" valeur="1309"/>
+    <prix nom="SP95" id="2" maj="2014-09-16 14:47:44" valeur="1519"/>
+    <prix nom="SP98" id="6" maj="2014-06-25 10:44:37" valeur="1599"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1630002" latitude="4625345" longitude="602664" cp="01630" pop="R">
+    <adresse>50 Rue de la Faucille</adresse>
+    <ville>SAINT-GENIS-POUILLY</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour="Samedi;Dimanche"/>
+    <services>
+      <service>Carburant qualité supérieure</service>
+      <service>Station de gonflage</service>
+      <service>Station de lavage</service>
+      <service>Lavage multi-programmes</service>
+      <service>Lavage haute-pression</service>
+      <service>Baie de service auto</service>
+      <service>Piste poids lourds</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-12 00:11:00" valeur="1360"/>
+    <prix nom="SP95" id="2" maj="2014-09-12 00:11:00" valeur="1580"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1630003" latitude="4626326" longitude="602950" cp="01630" pop="R">
+    <adresse>148 Rue des Chalets</adresse>
+    <ville>SAINT-GENIS-POUILLY</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-12 13:14:35" valeur="1256"/>
+    <prix nom="E10" id="5" maj="2014-09-12 13:14:35" valeur="1435"/>
+    <prix nom="SP98" id="6" maj="2014-09-12 13:14:35" valeur="1492"/>
+    <rupture id="2" nom="SP95" début="2013-03-13 15:07:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1630004" latitude="4618322.46433" longitude="592891.802463" cp="01630" pop="R">
+    <adresse>ZA DU PRE MUNNY</adresse>
+    <ville>PéRON</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+      <service>Station de lavage</service>
+      <service>Lavage multi-programmes</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-12 13:11:14" valeur="1256"/>
+    <prix nom="E10" id="5" maj="2014-09-12 13:11:14" valeur="1435"/>
+    <prix nom="SP98" id="6" maj="2014-09-12 13:11:14" valeur="1492"/>
+    <rupture id="2" nom="SP95" début="2014-01-15 11:16:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1640001" latitude="4603497" longitude="538957" cp="01640" pop="R">
+    <adresse>573 route de Genève</adresse>
+    <ville>Saint-Jean-le-Vieux</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services/>
+    <prix nom="Gazole" id="1" maj="2014-09-15 15:03:39" valeur="1349"/>
+    <prix nom="SP95" id="2" maj="2014-09-15 15:04:26" valeur="1599"/>
+    <prix nom="E10" id="5" maj="2014-09-15 15:02:27" valeur="1599"/>
+    <rupture id="6" nom="SP98" début="2014-06-25 00:00:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1700003" latitude="4587147" longitude="491241" cp="01700" pop="R">
+    <adresse>RN 83</adresse>
+    <ville>Miribel</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services/>
+    <prix nom="Gazole" id="1" maj="2014-09-22 16:00:00" valeur="1266"/>
+    <prix nom="E10" id="5" maj="2014-09-17 10:45:00" valeur="1469"/>
+    <prix nom="SP98" id="6" maj="2014-09-17 10:45:00" valeur="1545"/>
+    <rupture id="2" nom="SP95" début="2010-09-22 17:15:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1700004" latitude="4582650" longitude="499895" cp="01700" pop="R">
+    <adresse>ZAC des Beterses</adresse>
+    <ville>BEYNOST</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour="Dimanche"/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de fioul domestique</service>
+      <service>GPL</service>
+      <service>Station de gonflage</service>
+      <service>Station de lavage</service>
+      <service>Boutique non alimentaire</service>
+      <service>Vente de gaz domestique</service>
+      <service>Vente de pétrole lampant</service>
+      <service>Lavage multi-programmes</service>
+      <service>Lavage haute-pression</service>
+      <service>Piste poids lourds</service>
+      <service>Laverie</service>
+      <service>Location de véhicule</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-27 19:15:00" valeur="1259"/>
+    <prix nom="SP95" id="2" maj="2014-09-27 19:15:00" valeur="1472"/>
+    <prix nom="GPLc" id="4" maj="2014-08-02 19:00:00" valeur="764"/>
+    <prix nom="E10" id="5" maj="2014-09-25 08:49:00" valeur="1424"/>
+    <prix nom="SP98" id="6" maj="2014-09-20 08:46:00" valeur="1533"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1710001" latitude="4622732.39381" longitude="599277.59778" cp="01710" pop="R">
+    <adresse>route de Bellegarde</adresse>
+    <ville>THOIRY</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Station de gonflage</service>
+      <service>Toilettes publiques</service>
+      <service>Espace bébé / change</service>
+      <service>Boutique alimentaire</service>
+      <service>Boutique non alimentaire</service>
+      <service>Restauration à emporter</service>
+      <service>Vente de gaz domestique</service>
+      <service>Vente de pétrole lampant</service>
+      <service>Station de lavage</service>
+      <service>Restauration sur place</service>
+      <service>Lavage haute-pression</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-18 23:59:00" valeur="1256"/>
+    <prix nom="SP95" id="2" maj="2014-09-18 23:59:00" valeur="1457"/>
+    <prix nom="SP98" id="6" maj="2014-09-18 23:59:00" valeur="1492"/>
+    <rupture id="3" nom="E85" début="2010-01-28 11:44:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1750001" latitude="4629932" longitude="488054" cp="01750" pop="R">
+    <adresse>223 route de Bourg-en-Bresse</adresse>
+    <ville>Replonges</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+      <service>Station de lavage</service>
+      <service>Location de véhicule</service>
+      <service>Station de gonflage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-29 08:58:39" valeur="1254"/>
+    <prix nom="SP95" id="2" maj="2014-09-29 08:58:39" valeur="1455"/>
+    <prix nom="E10" id="5" maj="2014-09-29 08:58:39" valeur="1429"/>
+    <rupture id="6" nom="SP98" début="2013-11-13 09:11:00" fin=""/>
+    <fermeture/>
+  </pdv>
+  <pdv id="1800001" latitude="4590118.51" longitude="519052.190391" cp="01800" pop="R">
+    <adresse>47 Route de Lyon</adresse>
+    <ville>MEXIMIEUX</ville>
+    <ouverture debut="08:30" fin="19:30" saufjour="Dimanche"/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+      <service>Station de gonflage</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-27 08:54:44" valeur="1251"/>
+    <prix nom="SP95" id="2" maj="2014-09-27 08:54:45" valeur="1466"/>
+    <prix nom="SP98" id="6" maj="2014-09-27 08:54:45" valeur="1533"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1800002" latitude="4582087" longitude="519980" cp="01800" pop="R">
+    <adresse>11 route de Port-Galland</adresse>
+    <ville>Saint-Maurice-de-Gourdans</ville>
+    <ouverture debut="07:00" fin="19:00" saufjour="Dimanche"/>
+    <services/>
+    <prix nom="Gazole" id="1" maj="2014-05-07 11:20:08" valeur="1450"/>
+    <prix nom="SP95" id="2" maj="2014-04-15 16:03:41" valeur="1680"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1800003" latitude="4591162.3208373" longitude="518971.44887676" cp="01800" pop="R">
+    <adresse>ROUTE DE CHALAMONT</adresse>
+    <ville>Meximieux</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services/>
+    <prix nom="Gazole" id="1" maj="2014-09-26 10:11:22" valeur="1263"/>
+    <prix nom="SP95" id="2" maj="2014-09-26 10:12:11" valeur="1476"/>
+    <prix nom="E10" id="5" maj="2014-09-26 10:13:10" valeur="1444"/>
+    <prix nom="SP98" id="6" maj="2014-09-15 14:28:01" valeur="1530"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+  <pdv id="1960001" latitude="4618159" longitude="521379" cp="01960" pop="R">
+    <adresse>Chemin de Bellevue</adresse>
+    <ville>PéRONNAS</ville>
+    <ouverture debut="01:00" fin="01:00" saufjour=""/>
+    <services>
+      <service>Automate CB</service>
+      <service>Vente de gaz domestique</service>
+    </services>
+    <prix nom="Gazole" id="1" maj="2014-09-26 08:31:31" valeur="1255"/>
+    <prix nom="SP95" id="2" maj="2014-09-26 08:31:31" valeur="1455"/>
+    <prix nom="SP98" id="6" maj="2014-09-26 08:31:31" valeur="1505"/>
+    <fermeture/>
+    <rupture/>
+  </pdv>
+</pdv_liste>
