@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.w3.org/1999/xhtml" data-template="templates:surround" data-template-with="templates/page.html" data-template-at="content">
+    <div class="container">
+        <div class="col-md-11">
+        
+        <recherche>
+                <h1>Formulaire de recherche</h1>
+                <br/>
+                
+                <form method="get" class="form-inline" id="pageform">
+                    <div class="form-group">
+                        <div class="input-group">
+                            <input type="text" class="form-control" name="searchexpr"/> 
+                            
+                                <input type="radio" id="field" name="field" value="p" checked="checked"/>
+                                <label for="tei:author">Texte plein</label>
+                                
+                                <input type="radio" id="field" name="field" value="author"/>
+                                <label for="tei:author">Auteur</label>
+                                
+                                <input type="radio" id="field" name="field" value="date"/>
+                                <label for="tei:author">Date</label>
+                                
+                                <input type="radio" id="field" name="field" value="title"/>
+                                <label for="tei:author">Titre</label>
+                        </div>
+                    
+                        <button type="submit" class="btn btn-primary">Valider</button>
+                    </div>
+                </form>
+                <br/>
+                <br/>
+                <h2>Trouvé</h2>
+                <br/>
+                
+                <h1>
+                    <span id="hitcount"/>
+                </h1>
+                <div id="teitable">
+                <table>
+                 
+                        <tr>
+                            
+                            <td>Texte</td>
+                            <td>Document</td>
+                        </tr>
+                <script>
+                    $( document ).ready(function() {
+                        var hits = ($('td.KWIC').children('p').length);
+                        if (hits == 1||hits == 0 ){
+                            $("#hitcount").text(hits+" résultat");
+                        }
+                        else {
+                            $("#hitcount").text(hits+" résultats");
+                        }
+                    });     
+                </script>
+
+                  
+                    <tbody>
+                        <tr data-template="app:ft_search"/>
+                    </tbody>
+                </table>
+                </div>
+            <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+            </recherche>
+
+            </div>
+        </div>
+    </div>

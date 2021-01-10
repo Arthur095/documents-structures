@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index>
+	<head n="1">
+		Ce Projet a été réalisé dans le cadre du cours "Documents Structurés" dispensé par M. Arthur Provenier à l'Inalco pour les élèves du Master 2 "Traitement Automatique des Langues".
+	</head>
+	<head n="2">
+	Le site que vous voyez s'avère être le projet final venant conclure un semestre de cours. Il a pour but de faire manipuler aux élèves les différents outils et composants du XML et de l'HTML, tel que xPath et xQuery entre autres.
+	Les différentes pages de ce site présentent les étapes du projet : La conversion de fichiers odt en xml conforme à la norme TEI et le développement d'une application web afin de représenter ces documents.
+	</head>
+	<part n="1">
+		<subpart n="1">
+			La première partie du projet a été réalisée en parallèle d'un script écrit en bash afin d'automatiser chaque étape du processus qui se résume en ces trois points :
+			La décompression des fichiers odt, la transformation des fichiers xml extraits grâce à une feuille de style xsl et la validation des documents xml produits.
+	 	</subpart>
+		<subpart n="2">
+			La décompression s'est simplement fait avec la commande "Unzip" inclut dans linux. Il s'est avéré qu'une fois son contenu extrait, le document odt contenait deux fichiers xml différents nécessaires à la suite de notre projet. Le fichier content qui contenait le corps du texte, ce que l'on pouvait visualiser en ouvrant le document odt, et le fichier meta qui comportait diverses métadonnées sur le document odt telles que la date de création, le nom de l'auteur...
+		</subpart>
+		<subpart n="3">
+			La transformation s'est faite en deux temps. Tout d'abords la rédaction d'une feuille de style xsl, qui imposait d'importer deux fichiers xml extraits du document odt original. Il a fallu pour cela utiliser la fonction document() et indiquer le chemin vers le second fichier xml dans la fonction. Néanmoins vu que notre but était d'automatiser la transformation pour chaque document odt, nous avons alors trouvé l'astuce de stocker le chemin dans une variable qui était éditée par la commande 'sed' de bash pour la faire correspondre au chemin de chaque nouveau fichier traité. Pour transformer nos documents xml décompressés, nous avons utilisé le logiciel Saxon (ver. 10.3) car c'était le seul outil gratuit supportant la transformation à partir d'une feuille de style utilisant une version de xPath supérieure à la 1.0.
+		</subpart>
+		<subpart n="4">
+		Pour valider nos documents xml fraîchement transformés, nous avons utilisé le logiciel xmllint avec un schéma relaxNG fourni par notre professeur. Nous avons également essayé de valider nos documents transformés avec le schéma relaxNG téléchargeable sur le site officiel de la tei et nos documents se sont aussi avérés valides. Après avoir rempli ces trois étapes, nous nous sommes attelés à la seconde partie de notre projet.
+		</subpart>
+		<subpart n="5">
+			Néanmoins, cette première partie nous a posé certaines difficultés. Pour commencer, la rédaction de la feuille de style XSL n'était pas la tâche la plus évidente dans le sens ou le format des documents odt imposés relevait une imposibilité de diviser les chapitres du documents avec des balises 'division' dans son rendu tei final. Pour distinguer les balises titre et paragraphe, nous avons eu alors recours à une astuce en précisant un attribut spécifique pour les titres afin de pouvoir les distinguer ultérieurement dans notre application. De plus, nous n'avons pas réussi à isoler les parties balisées pour le texte en gras ou en italique dans le fichier xml extrait du document odt. 
+		</subpart>
+	</part>
+	<part n="2">
+		<subpart n="1">
+		    Cette seconde partie consiste, quant à elle, à la création d'une application web grâce à l'outil exist-database, afin de visualiser nos documents tei sur le net. Elle se divise elle aussi en trois sous-parties : La création de la page d'accueil à partir d'un fichier xml transformé par une feuille de style xsl, une page de recherche permettant d'identifier un document tei en particulier ou bien un segment de son contenu via une fonction xQuery et enfin la visualisation de nos documents tei transformés par une feuille de style xsl.
+		</subpart>
+		<subpart n="2">
+			La création de la page d'accueil commence par l'écriture d'un document xml contenant le texte que vous lisez actuellement contenu dans différentes balises. Nous avons ensuite rédigé une feuille de style xsl afin d'adapter son contenu à une page html. Puis nous avons rédigé un schéma relaxNG pour que l'on puisse facilement remplacer le document xml faisant office de page d'accueil sans détruire la mise en page. Enfin, pour effectuer la transformation du document xml sur la page html, nous avons eu recours à une fonction xQuery plutôt basique qui appelle la fonction transform:transform(xml, xslsheet) intégrée dans exist-database.
+		</subpart>
+		<subpart n="3">
+		    La seconde page du site est un formulaire de recherche intégré à la page grâce à une fonction xQuery. Il permet de rechercher du texte plein dans tous les documents ou bien un document d'après sa date, son titre ou son auteur. Pour notre fonction xQuery nous avons utilisé le module kwic et sa fonction summarize sur l'ensemble des noeuds dont le texte correspondant à la recherche afin d'afficher les résultats de la recherche proprement dans un tableau.  
+		</subpart>
+		<subpart n="3">
+		   La dernière, ou les dernières pages du site présentent nos documents tei de façon lisible sur la page et dans un format identique à celui des documents odt avec en prime un tableau comportant de brièves informations sur le texte de la page. Pour cela, nous avons procédé de la même façon que pour la première partie, en rédigeant une feuille de style xsl et effectuant la transformation de notre document xml pour le rendre sur notre page html.
+		</subpart>
+	</part>
+	<foot>
+		En somme, le plus difficile dans ce projet s'est avéré être la prise en main d'exist-database, peu intuitive, un logiciel assez capricieux, avec de nombreux crash ou coupures de connexion à la database, bien qu'hébergée localement... En plus du fait que l'indexation de nos documents nous a demandé de relancer plusieurs fois l'application pour que cela puisse fonctionner et sans oublier que le rendu de l'application refusait parfois de se rafraîchir instantanément malgré avoir enregistré nos modifications. En bref, exist-databse est un outil que nous ne conseillerons qu'aux plus avertis. A part cela, le formulaire de recherche était pour nous la partie la plus difficile mais grâce à la magie d'internet, nous avons réussi à l'implémenter dans notre site. 
+	</foot>
+</index>
