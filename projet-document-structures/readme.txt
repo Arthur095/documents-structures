@@ -8,3 +8,6 @@ Vous pouvez coller la ligne suivante dans l'invite de commandes :
 
 apt-get install unzip; apt-get install java; apt-get install libxml2;
 
+
+update 13/01 : Changez le nom de la racine de l'app exist-db pour "projetxml" si problème.
+
